@@ -12,7 +12,7 @@ My interests include:
 
 ## Research 🎓
 ### M.Sc thesis
-I'm working towards a thesis about protecting AI models (PyTorch, Keras) from Steganography attacks by developing Steganylsis methods to detect them.  
+I'm working towards a thesis about protecting AI models (PyTorch, Keras) from Steganography attacks by developing steganalysis methods to detect them.  
 Check out the code repository [here](https://github.com/ArielCyber/AI_Model_Steganalysis)
 
 
