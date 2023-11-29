@@ -21,6 +21,7 @@ Check out the code repository [here](https://github.com/ArielCyber/AI_Model_Steg
 - [Pizza Place Pipeline](https://github.com/danigil/Pizza-Place-Pipeline) - Data pipeline using Node.js, Python, Kafka, Redis, and Elasticsearch.
 - [Reinforcement Learning with Unity](https://github.com/danigil/Reinforcement-Learning-with-Unity.git) - Unity environment with simple Reinforcement Learning examples.
 - [AnimEngine](https://github.com/AnimEngine/AnimEngine.git) - Anime Recommendation Platform using Serverless computing with Firebase for the backend.
+- [EnvyFreeBipartiteSite](https://github.com/danigil/EnvyFreeBipartiteMatchingSite.git) - Flask site for running envy-free bipartite algorithm implemented using networkx.
 - [Java Graphing GUI](https://github.com/danigil/GraphGUI)
 - [Python Graphing GUI](https://github.com/danigil/GraphGUIPY)
 - [Guitar Information Android application](https://github.com/danigil/GuitarGuide)
