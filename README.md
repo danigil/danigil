@@ -12,9 +12,14 @@ My interests include:
 
 ## Research 🎓
 ### M.Sc thesis
-I'm working towards a thesis about protecting AI models (PyTorch, Keras) from Steganography attacks by developing steganalysis methods to detect them.  
-Check out the code repository [here](https://github.com/ArielCyber/AI_Model_Steganalysis)
+My master's thesis is about protecting AI models (PyTorch, Keras) from Steganography attacks by developing steganalysis methods to detect them.  
+It includes two research works:  
+1. [Steganalysis of AI Models LSB Attacks](https://github.com/ArielCyber/AI_Model_Steganalysis)
+2. [ModelXRay](https://github.com/danigil/ModelXRay.git)
 
+### KNN+X
+Analysis of a novel idea that labels samples by training some classifier `X` on their K nearest neighbors.  
+Check out the code repository [here](https://github.com/danigil/KNN-X.git)
 
 ## Projects
 
