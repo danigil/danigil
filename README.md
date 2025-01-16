@@ -21,6 +21,17 @@ It includes two research works:
 Analysis of a novel idea that labels samples by training some classifier `X` on their K nearest neighbors.  
 Check out the code repository [here](https://github.com/danigil/KNN-X.git)
 
+## Game Development
+### Murder Mystery Game with LLM Agents - AgentCraft Hackathon Submission
+Proposed an idea for Gaming LLM Agents
+	- Teamed up with 2 strangers
+	- Conducted meetings
+		- Brain-storming
+		- Technical Design
+		- Implementation
+	- Our "Murder Mystery Game with LLM Agents" got accepted as an open-source contribution
+Check out the PR [here](https://github.com/NirDiamant/GenAI_Agents/pull/34)
+
 ## Projects
 
 - [Pizza Place Pipeline](https://github.com/danigil/Pizza-Place-Pipeline) - Data pipeline using Node.js, Python, Kafka, Redis, and Elasticsearch.
