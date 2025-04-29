@@ -1,6 +1,6 @@
 ## About me
 I'm Daniel - a Computer Science enthusiast 😬.  
-I'm currently pursuing an M.Sc degree in computer science 📚 and writing my thesis about AI model steganalysis.  
+I'm currently pursuing a PhD degree in computer science 📚.
 
 My interests include:
   - Computer Science Research 🔬
